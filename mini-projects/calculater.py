@@ -21,4 +21,3 @@ elif c==4:
     print("the multiplication is ",mul(a,b))
 else:
     print("invalid input")
-6
